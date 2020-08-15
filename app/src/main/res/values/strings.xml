@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Florika</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_account">Account</string>
+    <string name="shop_name">Her Collections</string>
+    <string name="slogan">your one stop fashion store</string>
+</resources>
